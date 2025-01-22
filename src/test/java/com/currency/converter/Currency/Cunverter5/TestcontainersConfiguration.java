@@ -1,0 +1,8 @@
+package com.currency.converter.Currency.Cunverter5;
+
+import org.springframework.boot.test.context.TestConfiguration;
+
+@TestConfiguration(proxyBeanMethods = false)
+class TestcontainersConfiguration {
+
+}
